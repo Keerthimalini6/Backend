@@ -11,7 +11,8 @@
         "category":"Salary",
         "amount":"2000",
         "date":"20-06-2023",
-        "userid":"1"
+        "userid":"1",
+        "id":1
       }
     ]
     }
